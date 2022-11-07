@@ -1,2 +1,5 @@
 # Project exclude paths
 /out/
+/.idea/
+lab5.iml
+lab5.zip
